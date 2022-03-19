@@ -40,14 +40,20 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-Basic version of the game without any modifications
+Basic version of the game without any modifications (without game audio)
 ![basic ver](https://user-images.githubusercontent.com/97865970/159108492-f42b5499-01de-4801-93d9-4c76d04456e8.gif)
 
-Modified version of the game 
+With game audio (audio GIF)
+
+
+[Final Version]
+
+Modified version of the game (without game audio)
 ![modified-ver](https://user-images.githubusercontent.com/97865970/159108497-a6a12b13-ffb6-485d-9e3f-0ddeadb6568a.gif)
 
-![](gif3-link-here)
-![](gif4-link-here)
+With game audio (audio GIF)
+
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
