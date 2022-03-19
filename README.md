@@ -46,7 +46,7 @@ Basic version of the game without any modifications (without game audio)
 With game audio (audio GIF)
 
 
-[Final Version]
+**[Official Version]**
 
 Modified version of the game (without game audio)
 ![modified-ver](https://user-images.githubusercontent.com/97865970/159108497-a6a12b13-ffb6-485d-9e3f-0ddeadb6568a.gif)
