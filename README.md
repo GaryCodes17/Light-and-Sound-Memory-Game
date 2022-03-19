@@ -43,7 +43,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 Basic version of the game without any modifications full demonstration (without game audio)
 ![basic ver](https://user-images.githubusercontent.com/97865970/159108492-f42b5499-01de-4801-93d9-4c76d04456e8.gif)
 
-With game audio demonstration (audio GIF)
+With game audio demonstration (audio GIF) suggested by CodePath TA
 
 
 https://user-images.githubusercontent.com/97865970/159110149-e95ec3bc-169e-4a33-ad00-becd5564f606.mp4
@@ -54,7 +54,7 @@ https://user-images.githubusercontent.com/97865970/159110149-e95ec3bc-169e-4a33-
 Modified version of the game full demonstration (without game audio)
 ![modified-ver](https://user-images.githubusercontent.com/97865970/159108497-a6a12b13-ffb6-485d-9e3f-0ddeadb6568a.gif)
 
-With game audio (audio GIF)
+With game audio demonstaration (audio GIF) suggested by CodePath TA
 
 
 https://user-images.githubusercontent.com/97865970/159110445-a2df4ab6-871d-4888-8f6d-ab86327bf836.mp4
