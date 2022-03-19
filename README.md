@@ -40,8 +40,8 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-<img src="https://drive.google.com/file/d/1CAF43QblTxr7jayGOWffh8pTu-_9eiF-/view?usp=sharing" width=250><br>
-![](https://drive.google.com/file/d/1CAF43QblTxr7jayGOWffh8pTu-_9eiF-/view?usp=sharing)
+![](gif1-link-here)
+![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
