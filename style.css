@@ -1,0 +1,95 @@
+/* hides all buttons listed in same class */
+.hidden {
+  display: none;
+}
+
+/* formats the paragraph of text */
+body {
+  margin: 2rem;
+  font-family: helvetica, arial, sans-serif;
+
+  background-color: #ffcba4;
+  color: #717cff;
+}
+
+/* game title format */
+h1 {
+  font-family: verdana, arial, sans-serif;
+}
+
+/* start and stop button formatting */
+button {
+  padding: 15px;
+  border-radius: 50px;
+}
+
+/* formats the 4 game buttons */
+#gameButtonArea > button {
+  width: 200px;
+  height: 200px;
+  margin: 2px;  
+}
+
+/* default colors of each button */
+#button1 {
+  background: lightgreen;
+}
+
+/* different color being shown when button gets pressed or sound is played */
+#button1:active, #button1.lit{
+  background: green;
+  /* formatted image that appears when the button is pressed */
+  background-image: url("https://cdn.glitch.global/615992b6-87eb-412c-8315-809f528d393e/coding.png?v=1647556679529");
+  background-repeat: no-repeat;
+  background-size: 80px 80px;
+  background-position: center;
+}
+
+#button2 {
+  background: lightblue;
+}
+
+#button2:active, #button2.lit {
+  background: blue;
+  background-image: url("https://cdn.glitch.global/615992b6-87eb-412c-8315-809f528d393e/coding.png?v=1647556679529");
+  background-repeat: no-repeat;
+  background-size: 80px 80px;
+  background-position: center;
+}
+
+#button3 {
+  background: pink;
+}
+
+#button3:active, #button3.lit {
+  background: red;
+  background-image: url("https://cdn.glitch.global/615992b6-87eb-412c-8315-809f528d393e/coding.png?v=1647556679529");
+  background-repeat: no-repeat;
+  background-size: 80px 80px;
+  background-position: center;
+}
+
+#button4 {
+  background: lightyellow;
+}
+
+#button4:active, #button4.lit {
+  background: yellow;
+  background-image: url("https://cdn.glitch.global/615992b6-87eb-412c-8315-809f528d393e/coding.png?v=1647556679529");
+  background-repeat: no-repeat;
+  background-size: 80px 80px;
+  background-position: center;
+}
+
+#button5 {
+  background: violet;
+  
+}
+
+#button5:active, #button5.lit {
+  background: purple;
+  background-image: url("https://cdn.glitch.global/615992b6-87eb-412c-8315-809f528d393e/coding.png?v=1647556679529");
+  background-repeat: no-repeat;
+  background-size: 80px 80px;
+  background-position: center;
+}
