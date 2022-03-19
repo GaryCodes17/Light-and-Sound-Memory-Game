@@ -46,7 +46,6 @@ Basic version of the game without any modifications
 Modified version of the game 
 ![modified-ver](https://user-images.githubusercontent.com/97865970/159108497-a6a12b13-ffb6-485d-9e3f-0ddeadb6568a.gif)
 
-![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
