@@ -86,12 +86,6 @@ https://user-images.githubusercontent.com/97865970/159110445-a2df4ab6-871d-4888-
     If I had a few more hours to work on this project, I would have spent more time figuring out how to randomize the pitch patterns being played in each game. I thought that feature seems amazing and it would make the game a lot more fun and interesting since the player would not know what sound will play next. If permitted, another thing I would have added is an actual congratulations message after the player wins the game or game over message instead of a notification-like message from the browser. Additionally, I would have liked to try and add different levels to the game. When the player fully completes the pattern correctly each time, in the next level the sounds playing would increase in speed to make it more difficult. 
 
 
-
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording] https://youtu.be/jcF724jPJ5I
-
-
 ## License
 
     Copyright [Gary Tsang]
